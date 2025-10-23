@@ -25,10 +25,8 @@ Welcome to **Joke Arena**, a fun little project built using **HTML, CSS, and Jav
 ---
 
 ## 📸 Demo Preview
+<a herf="https://joke-app-js.netlify.app/"> DEMO HERE </a>
 
-![Joke Arena Screenshot](https://via.placeholder.com/900x450.png?text=Joke+Arena+Preview)
-
-*(Replace the above link with your actual screenshot once you upload it to your repo.)*
 
 ---
 
