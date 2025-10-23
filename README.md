@@ -25,7 +25,7 @@ Welcome to **Joke Arena**, a fun little project built using **HTML, CSS, and Jav
 ---
 
 ## 📸 Demo Preview
-<a herf="https://joke-app-js.netlify.app/"> DEMO HERE </a>
+<a href="https://joke-app-js.netlify.app/" target="_blank">DEMO HERE</a>
 
 
 ---
